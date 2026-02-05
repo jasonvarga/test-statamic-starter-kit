@@ -1,0 +1,9 @@
+{
+    "name": "jasonvarga/test-statamic-starter-kit",
+    "extra": {
+        "statamic": {
+            "name": "Test",
+            "description": "A description of your starter kit"
+        }
+    }
+}
