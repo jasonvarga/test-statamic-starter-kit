@@ -1,2 +1,4 @@
 export_paths:
   - app/Plop.php
+dependencies_dev:
+  spatie/laravel-ray: ^1.43
